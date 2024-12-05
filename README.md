@@ -1,0 +1,1 @@
+Fitness Portal is a gym application website which provides the exercise plan and diet based on our requirements.We can plan our workouts ,track our progress , setting Goals.Responsive Design for mobile and Desktop.Developed using HTML , CSS and React JS.
